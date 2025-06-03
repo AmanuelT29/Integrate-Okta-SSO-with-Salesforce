@@ -51,10 +51,10 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 
 ### Add Users on Salesforce
 
-1. Navigated to **Users** on Salesforce and added the users I created on Okta. Followed the same process for the remaining users 
+1. Navigated to **Users** on Salesforce and added the users I created on Okta. Followed the same process for the remaining users.
 
-<img src="https://github.com/user-attachments/assets/283b4215-3942-4df7-b0bc-d2381806b22a" alt="Screenshot 1" width="500"/>
-  <img src="https://github.com/user-attachments/assets/c3ee2710-5cca-4030-b8e2-43aa9f5688a2" alt="Screenshot 2" width="500"/>
+<img src="https://github.com/user-attachments/assets/7ea7f90a-d1d2-42e8-9f64-41f0105249e0" alt="Screenshot 1" width="500"/>
+  <img src="https://github.com/user-attachments/assets/6b4cc41b-70c6-4e6d-b768-842b028d99f7" alt="Screenshot 2" width="500"/>
 </p>
 
 
