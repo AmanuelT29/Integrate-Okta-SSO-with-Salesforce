@@ -23,33 +23,31 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 </p>
 
   
-
 2. Navigated to **People** to verify that all four users were successfully added.
 
-   <img src="https://github.com/user-attachments/assets/01da420e-7128-449b-b836-19f6e61b1a08" alt="Screenshot" width="450"/>
+   <img src="https://github.com/user-attachments/assets/01da420e-7128-449b-b836-19f6e61b1a08" alt="Screenshot" width="500"/>
 
    
-
 3. Navigated to **Groups** to add **Marketing** Group.
    
    
-<img src="https://github.com/user-attachments/assets/f09a07d1-8718-4fdd-91db-27b1d9e1c3d7" alt="Screenshot" width="355"/>
+<img src="https://github.com/user-attachments/assets/f09a07d1-8718-4fdd-91db-27b1d9e1c3d7" alt="Screenshot" width="500"/>
 
 
 4. Navigated to **Groups** to verify **Marketing** is successfully added.
 
-<img src="https://github.com/user-attachments/assets/675afafb-6479-4096-a835-73921e5fb051" alt="Screenshot" width="400"/>
+<img src="https://github.com/user-attachments/assets/675afafb-6479-4096-a835-73921e5fb051" alt="Screenshot" width="500"/>
 </p>
 
 ### Assign Users to Groups
 
 1. Navigated to the **Marketing** group and assigned users by clicking the plus sign.
    
-<img src="https://github.com/user-attachments/assets/e8d83c5b-1d8c-4e04-958e-f736d7e7d8ae" alt="Screenshot" width="400"/>
+<img src="https://github.com/user-attachments/assets/e8d83c5b-1d8c-4e04-958e-f736d7e7d8ae" alt="Screenshot" width="500"/>
 
 2. Confirmed all the users are successfully added to **Marketing** group
 
-<img src="https://github.com/user-attachments/assets/92ccf1fa-70d1-4241-a0a6-7b5ab0853001" alt="Screenshot" width="400"/>
+<img src="https://github.com/user-attachments/assets/92ccf1fa-70d1-4241-a0a6-7b5ab0853001" alt="Screenshot" width="500"/>
 
 
 ### Add Users on Salesforce
