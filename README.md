@@ -118,6 +118,29 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 <img src="https://github.com/user-attachments/assets/8ed50b6e-fd12-434f-a835-48879de3513d" alt="Screenshot 2" width="450"/>
 
 
-### Check if Salesforce is Successfully Integrated on the User's Okta Dashboard
+### Verify Salesforce is Successfully Integrated on the User's Okta Dashboard
 
-### Confirm Successful User Access to Salesforce from Okta
+- As shown in the screenshots, all four users in the **Marketing** group have the Salesforce application in their Okta account:
+
+<img src="https://github.com/user-attachments/assets/cdc1605a-aeae-4661-9280-e5ddf2c5e740" alt="Screenshot 1" width="45%" />
+<img src="https://github.com/user-attachments/assets/68515c8f-0bf6-4acc-884f-187eb188a3f6" alt="Screenshot 2" width="45%" />
+
+<img src="https://github.com/user-attachments/assets/f7eb95ba-0011-4b1d-a287-b90154172f77" alt="Screenshot 3" width="45%" />
+<img src="https://github.com/user-attachments/assets/0ca71f26-d79e-417e-bfda-28960403888a" alt="Screenshot 4" width="45%" />
+
+
+### Verify successful user SSO access to Salesforce from Okta
+
+- As shown in the screenshots, all four users in the **Marketing** group were able to access Salesforce via SSO from Okta:
+
+<img src="https://github.com/user-attachments/assets/1c3575c2-c261-43f0-8e0c-07c2704d8de0" alt="Screenshot 5" width="400" />
+<img src="https://github.com/user-attachments/assets/5d53944f-5d93-4e69-88d8-ca61f2da7e5d" alt="Screenshot 6" width="400" />
+
+
+<img src="https://github.com/user-attachments/assets/97f47bbe-09a1-40ca-9f44-a9dda4bd5eb2" alt="Screenshot 7" width="400" />
+<img src="https://github.com/user-attachments/assets/03f3a632-3520-4447-9113-f6d901c1f9dd" alt="Screenshot 8" width="400" />
+
+
+
+
+
