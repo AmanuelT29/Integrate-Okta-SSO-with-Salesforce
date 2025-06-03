@@ -19,7 +19,7 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 1. Started by adding new users **Oly** and **Monisha**, and followed the same process for the remaining users:
 
 <img src="https://github.com/user-attachments/assets/c1fef801-1c50-4795-8b9d-f09603455cca" alt="Screenshot 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/5d2bfc2c-9cce-4281-8154-5f8597e50064" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/5d2bfc2c-9cce-4281-8154-5f8597e50064" alt="Screenshot 2" width="300"/>
 </p>
 
   
@@ -55,14 +55,16 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 1. Navigated to **Users** on Salesforce and added the users I created on Okta. Followed the same process for the remaining users:
 
 <img src="https://github.com/user-attachments/assets/7ea7f90a-d1d2-42e8-9f64-41f0105249e0" alt="Screenshot 1" width="500"/>
-  <img src="https://github.com/user-attachments/assets/6b4cc41b-70c6-4e6d-b768-842b028d99f7" alt="Screenshot 2" width="500"/>
+<img src="https://github.com/user-attachments/assets/6b4cc41b-70c6-4e6d-b768-842b028d99f7" alt="Screenshot 2" width="500"/>
 
 
 
 
 
 ### Intergrate Okta with Salesforce Application
-1. To find Salesforce on Okta: Go to Applications > Browse App Integration Catalog > Search for Salesforce > Click on Salesforce:
+1. To find Salesforce on Okta:
+   
+   - Go to Applications > Browse App Integration Catalog > Search for Salesforce > Click on Salesforce:
 
 <img src="https://github.com/user-attachments/assets/37433212-aaab-4f67-807b-df88fbc38508" alt="Screenshot" width="500"/>
 
@@ -99,11 +101,22 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
  <img src="https://github.com/user-attachments/assets/fbab4717-2d77-4772-8c41-b3ee08a4df3c" alt="Screenshot" width="400"/>
 
 
+### Assign Group to Salesforce Application
+
+1. To assign **Marketing** group to Salesforce application:
+
+   - Go to Application>SalesForce>Assign to Groups>Marketing>Assign:
+   
+<img src="https://github.com/user-attachments/assets/a405d87e-00a8-42de-93c7-aa028ee9a472" alt="Screenshot 1" width="450"/>
+<img src="https://github.com/user-attachments/assets/fb66873d-e55e-4816-824d-1ad92f42ac3d" alt="Screenshot 2" width="450"/>
+</p>
 
 
+2. Confirmed **Marketing** group and all user belonging in the group are assigned to Salesforce application:
 
+<img src="https://github.com/user-attachments/assets/b936add7-6416-4bc3-9ef9-33947f5d8acb" alt="Screenshot 1" width="450"/>
+<img src="https://github.com/user-attachments/assets/8ed50b6e-fd12-434f-a835-48879de3513d" alt="Screenshot 2" width="450"/>
 
-### Assign to Salesforce Application
 
 ### Check if Salesforce is Successfully Integrated on the User's Okta Dashboard
 
