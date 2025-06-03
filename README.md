@@ -20,7 +20,7 @@ In this project, I aim to demonstrate how to integrate Okta Single Sign-On (SSO)
 
 ### Create Users and Group on Okta
 
-1. Started by adding new users **Oly** and **Monisha**, and followed the same process for the remaining users:
+1. Started by adding new users: **Oly** and **Monisha**, then followed the same process for the remaining users:
 
 <img src="https://github.com/user-attachments/assets/c1fef801-1c50-4795-8b9d-f09603455cca" alt="Screenshot 1" width="300"/>
 <img src="https://github.com/user-attachments/assets/5d2bfc2c-9cce-4281-8154-5f8597e50064" alt="Screenshot 2" width="300"/>
