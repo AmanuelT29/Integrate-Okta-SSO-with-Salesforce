@@ -19,11 +19,11 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 1. Started by adding new users **Monisha** and **Oly**, and followed the same process for the remaining users.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/012554c1-b8c0-45ad-b465-0808b232d6e7" alt="Screenshot 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/1228a06f-9ca4-4180-a1dd-b33db668e6c8" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/012554c1-b8c0-45ad-b465-0808b232d6e7" alt="Screenshot 1" width="350"/>
+  <img src="https://github.com/user-attachments/assets/1228a06f-9ca4-4180-a1dd-b33db668e6c8" alt="Screenshot 2" width="350"/>
 </p>
 
-2. Navigated to **People** to confirm all the users have been succesfully added
+2. Navigated to **People** to verify that all users were successfully added
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/01da420e-7128-449b-b836-19f6e61b1a08" alt="Screenshot" width="450"/>
