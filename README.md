@@ -24,7 +24,7 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 
   
 
-2. Navigated to **People** to verify that all users were successfully added.
+2. Navigated to **People** to verify that all four users were successfully added.
 
    <img src="https://github.com/user-attachments/assets/01da420e-7128-449b-b836-19f6e61b1a08" alt="Screenshot" width="450"/>
 
