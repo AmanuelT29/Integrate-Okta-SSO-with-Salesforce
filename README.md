@@ -16,54 +16,92 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 
 ### Create Users and Group on Okta
 
-1. Started by adding new users **Oly** and **Monisha**, and followed the same process for the remaining users.
+1. Started by adding new users **Oly** and **Monisha**, and followed the same process for the remaining users:
 
 <img src="https://github.com/user-attachments/assets/c1fef801-1c50-4795-8b9d-f09603455cca" alt="Screenshot 1" width="300"/>
   <img src="https://github.com/user-attachments/assets/5d2bfc2c-9cce-4281-8154-5f8597e50064" alt="Screenshot 2" width="300"/>
 </p>
 
   
-2. Navigated to **People** to verify that all four users were successfully added.
+2. Navigated to **People** to verify that all four users were successfully added:
 
    <img src="https://github.com/user-attachments/assets/01da420e-7128-449b-b836-19f6e61b1a08" alt="Screenshot" width="500"/>
 
    
-3. Navigated to **Groups** to add **Marketing** Group.
+3. Navigated to **Groups** to add **Marketing** Group:
    
    
 <img src="https://github.com/user-attachments/assets/f09a07d1-8718-4fdd-91db-27b1d9e1c3d7" alt="Screenshot" width="500"/>
 
 
-4. Navigated to **Groups** to verify **Marketing** is successfully added.
+4. Navigated to **Groups** to verify **Marketing** is successfully added:
 
 <img src="https://github.com/user-attachments/assets/675afafb-6479-4096-a835-73921e5fb051" alt="Screenshot" width="500"/>
 </p>
 
 ### Assign Users to Groups
 
-1. Navigated to the **Marketing** group and assigned users by clicking the plus sign.
+1. Navigated to the **Marketing** group and assigned users by clicking the plus sign:
    
 <img src="https://github.com/user-attachments/assets/e8d83c5b-1d8c-4e04-958e-f736d7e7d8ae" alt="Screenshot" width="500"/>
 
-2. Confirmed all the users are successfully added to **Marketing** group
+2. Confirmed all the users are successfully added to **Marketing** group:
 
 <img src="https://github.com/user-attachments/assets/92ccf1fa-70d1-4241-a0a6-7b5ab0853001" alt="Screenshot" width="500"/>
 
 
 ### Add Users on Salesforce
 
-1. Navigated to **Users** on Salesforce and added the users I created on Okta. Followed the same process for the remaining users.
+1. Navigated to **Users** on Salesforce and added the users I created on Okta. Followed the same process for the remaining users:
 
 <img src="https://github.com/user-attachments/assets/7ea7f90a-d1d2-42e8-9f64-41f0105249e0" alt="Screenshot 1" width="500"/>
   <img src="https://github.com/user-attachments/assets/6b4cc41b-70c6-4e6d-b768-842b028d99f7" alt="Screenshot 2" width="500"/>
-</p>
+
 
 
 
 
 ### Intergrate Okta with Salesforce Application
+1. To find Salesforce on Okta: Go to Applications > Browse App Integration Catalog > Search for Salesforce > Click on Salesforce:
 
-### Configure Salesforce
+<img src="https://github.com/user-attachments/assets/37433212-aaab-4f67-807b-df88fbc38508" alt="Screenshot" width="500"/>
+
+2. Click Add Integration:
+
+<img src="https://github.com/user-attachments/assets/ed7dca0e-0dba-4ea1-a409-d247cd2c612f" alt="Screenshot" width="600"/>
+
+3. Since this is a testing project and not a real deployment, switch to a Sandbox under the instance type option:
+
+<img src="https://github.com/user-attachments/assets/d86078ab-9832-4a86-bb24-eb29fd37457e" alt="Screenshot" width="400"/>
+
+
+### Configure SAML 2.0 for Salesforce
+
+1. In Okta’s **Salesforce.com Sign-On Options** settings, switch to **SAML 2.0**, as it is required for SSO implementation:
+
+<img src="https://github.com/user-attachments/assets/fba32da6-10f0-42e5-863d-73b77be486ca" alt="Screenshot" width="400"/>
+
+2. To configure SSO on Salesforce website: **Identity**>**Single Sign-On Settings**:
+   
+   - Click edit and check mark **SAML Enabled**:
+ <img src="https://github.com/user-attachments/assets/b860e2d1-1411-4d2f-8ccb-a58e34133ecf" alt="Screenshot" width="400"/>
+
+3. Used Okta's **How to Configure SAML 2.0 for Salesforce** guidlines to configure **SAML Single Sign-On Settings**:
+
+ <img src="https://github.com/user-attachments/assets/a19c2b03-7500-4694-bc94-bd47c310cf1a" alt="Screenshot" width="500"/>
+
+4. Copied and pasted the **Login URL** provided by Salesforce into Okta’s Salesforce **Login URL** field:
+
+  <img src="https://github.com/user-attachments/assets/6718f2ec-69f2-45fd-98dd-5adbe909dcdc" alt="Screenshot" width="400"/>
+
+5. Confirmed Salesforce is successfully integrated on Okta:
+
+ <img src="https://github.com/user-attachments/assets/fbab4717-2d77-4772-8c41-b3ee08a4df3c" alt="Screenshot" width="400"/>
+
+
+
+
+
 
 ### Assign to Salesforce Application
 
