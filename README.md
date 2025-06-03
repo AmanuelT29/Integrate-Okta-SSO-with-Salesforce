@@ -7,6 +7,10 @@
 
 ## Platform and Tools Used
 
+- Okta
+- Salesforce
+- Web Browser
+
 
 ## Objective
 
@@ -139,6 +143,13 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 
 <img src="https://github.com/user-attachments/assets/97f47bbe-09a1-40ca-9f44-a9dda4bd5eb2" alt="Screenshot 7" width="400" />
 <img src="https://github.com/user-attachments/assets/03f3a632-3520-4447-9113-f6d901c1f9dd" alt="Screenshot 8" width="400" />
+
+
+---
+
+## Conclusion
+
+This project successfully demonstrates the integration of Okta Single Sign-On (SSO) with Salesforce, streamlining user access management through centralized authentication. By creating **users** and organizing them into a **Marketing** group within Okta, Role-Based Access Control was effectively implemented. The configuration of SAML 2.0 ensured secure and seamless SSO between Okta and Salesforce. Verification steps confirmed that all assigned users could access Salesforce directly from their Okta dashboards without issues. Overall, this integration enhances security, simplifies user management, and improves the user experience for accessing Salesforce
 
 
 
