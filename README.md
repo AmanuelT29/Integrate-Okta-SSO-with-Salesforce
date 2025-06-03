@@ -18,8 +18,8 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 
 1. Started by adding new users **Oly** and **Monisha**, and followed the same process for the remaining users.
 
-<img src="https://github.com/user-attachments/assets/c1fef801-1c50-4795-8b9d-f09603455cca" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/user-attachments/assets/5d2bfc2c-9cce-4281-8154-5f8597e50064" alt="Screenshot 2" width="400"/>
+<img src="https://github.com/user-attachments/assets/c1fef801-1c50-4795-8b9d-f09603455cca" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5d2bfc2c-9cce-4281-8154-5f8597e50064" alt="Screenshot 2" width="300"/>
 </p>
 
   
@@ -33,22 +33,23 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 3. Navigated to **Groups** to add **Marketing** Group.
    
    
-<img src="https://github.com/user-attachments/assets/f09a07d1-8718-4fdd-91db-27b1d9e1c3d7" alt="Screenshot" width="400"/>
+<img src="https://github.com/user-attachments/assets/f09a07d1-8718-4fdd-91db-27b1d9e1c3d7" alt="Screenshot" width="355"/>
 
 
 4. Navigated to **Groups** to verify **Marketing** is successfully added.
 
-![Screenshot 2025-06-02 204948](https://github.com/user-attachments/assets/675afafb-6479-4096-a835-73921e5fb051)
+<img src="https://github.com/user-attachments/assets/675afafb-6479-4096-a835-73921e5fb051" alt="Screenshot" width="400"/>
+</p>
 
 ### Assign Users to Groups
 
 1. Navigated to the **Marketing** group and assigned users by clicking the plus sign.
    
-![Screenshot 2025-06-02 205925](https://github.com/user-attachments/assets/e8d83c5b-1d8c-4e04-958e-f736d7e7d8ae)
+<img src="https://github.com/user-attachments/assets/e8d83c5b-1d8c-4e04-958e-f736d7e7d8ae" alt="Screenshot" width="400"/>
 
 2. Confirmed all the users are successfully added to **Marketing** group
 
-![Screenshot 2025-06-02 211519](https://github.com/user-attachments/assets/92ccf1fa-70d1-4241-a0a6-7b5ab0853001)
+<img src="https://github.com/user-attachments/assets/92ccf1fa-70d1-4241-a0a6-7b5ab0853001" alt="Screenshot" width="400"/>
 
 
 ### Add Users on Salesforce
