@@ -65,7 +65,7 @@ In this project, I demonstrate how to integrate Okta Single Sign-On (SSO) with t
 
 
 
-### Intergrate Okta with Salesforce Application
+### Integrate Okta with Salesforce Application
 1. To find Salesforce on Okta:
    
    - Go to Applications > Browse App Integration Catalog > Search for Salesforce > Click on Salesforce:
