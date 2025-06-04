@@ -116,7 +116,7 @@ In this project, I aim to demonstrate how to integrate Okta Single Sign-On (SSO)
 </p>
 
 
-2. Confirmed **Marketing** group and all user belonging in the group are assigned to Salesforce application:
+2. Confirmed **Marketing** group and all user belonging in **Marketing** are assigned to Salesforce application:
 
 <img src="https://github.com/user-attachments/assets/b936add7-6416-4bc3-9ef9-33947f5d8acb" alt="Screenshot 1" width="450"/>
 <img src="https://github.com/user-attachments/assets/8ed50b6e-fd12-434f-a835-48879de3513d" alt="Screenshot 2" width="450"/>
