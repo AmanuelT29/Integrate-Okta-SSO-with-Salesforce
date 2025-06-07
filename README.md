@@ -14,7 +14,7 @@
 
 ## Objective
 
-In this project, I aim to demonstrate how to integrate Okta Single Sign-On (SSO) with the Salesforce application. The process begins by creating four new users in both Okta and Salesforce. Next, I create a "Marketing" group in Okta and assign the new users to this group to implement Role-Based Access Control (RBAC). I then configure the Salesforce application in Okta and set up SSO integration. Finally, I assign the Marketing group to the Salesforce application, granting users access and ensuring a successful SSO implementation.
+In this project, I aim to demonstrate how to integrate Okta Single Sign-On (SSO) with the Salesforce application. The process begins by creating four new users in both Okta and Salesforce. Next, I create a "Marketing" group in Okta and assign the new users to this group to enforce Role-Based Access Control (RBAC). I then configure the Salesforce application in Okta and set up SSO integration. Finally, I assign the Marketing group to the Salesforce application, granting users access and ensuring a successful SSO implementation.
  
 -----
 
